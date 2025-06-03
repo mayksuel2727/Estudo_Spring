@@ -1,0 +1,1 @@
+ALTER TABLE medicos CHANGE telofone telefone VARCHAR(255);
